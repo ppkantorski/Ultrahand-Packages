@@ -11,7 +11,7 @@ A comprehensive list of known Ultrahand Overlay packages.
 An Ultrahand package designed for managing and converting mods on the Nintendo Switch.
 
 ### Creator(s)
-- [ppkantorski](https://github.com/ppkantorski)
+- [ppkantorski](https://github.com/ppkantorski) (current maintainer)
 
 ## [OC Switchcraft EOS](https://github.com/halop/OC_Toolkit)
 ### Description
@@ -21,7 +21,7 @@ The OC Toolkit package provides various options for adjusting the clock speeds, 
 
 ### Creator(s)
 - [ppkantorski](https://github.com/ppkantorski)
-- [halop](https://github.com/halop)
+- [halop](https://github.com/halop) (current maintainer)
 
 ## Installation
 To install any of these packages, follow the instructions provided in their respective repositories.
