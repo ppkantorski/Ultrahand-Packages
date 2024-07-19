@@ -23,8 +23,6 @@ The OC Toolkit package provides various options for adjusting the clock speeds, 
 - [ppkantorski](https://github.com/ppkantorski)
 - [halop](https://github.com/halop) (current maintainer)
 
-## Installation
-To install any of these packages, follow the instructions provided in their respective repositories.
 
 ## Contributing
 If you have any custom packages you want to showcase, please create an issue or submit a pull request. Contributions are welcome!
