@@ -30,5 +30,9 @@ A comprehensive list of known Ultrahand Overlay packages.
 ### Description
 - An Ultrahand package designed for managing the Ultracam TOTK mod.
 
+### Creator(s)
+- [NaGaa95](https://github.com/NaGaa95) (current maintainer)
+
+
 ## Contributing
 If you have any custom packages you want to showcase, please create an issue or submit a pull request. Contributions are welcome!
