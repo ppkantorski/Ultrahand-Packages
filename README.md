@@ -6,6 +6,7 @@ A comprehensive list of known Ultrahand Overlay packages.
 ## Table of Contents
 - [Mod Alchemist](#mod-alchemist)
 - [OC Switchcraft EOS](#oc-switchcraft-eos)
+- [Ultra Tuner](#ultra-tuner)
 - [Ultracam Overlay](#ultracam-overlay)
 - [Contributing](#contributing)
 
@@ -24,6 +25,15 @@ A comprehensive list of known Ultrahand Overlay packages.
 #### Creator(s)
 - [ppkantorski](https://github.com/ppkantorski)
 - [halop](https://github.com/halop) (current maintainer)
+
+
+## [Ultra Tuner](https://github.com/Ultra-NX/Ultra-Tuner)
+#### Description
+- Ultra Tuner is another package that provides various options for adjusting the clock speeds, voltages, and timings of your device.
+
+#### Creator(s)
+- [redraz](https://github.com/redraz) (current maintainer)
+
 
 
 ## [Ultracam Overlay](https://github.com/NaGaa95/Ultracam-Overlay)
