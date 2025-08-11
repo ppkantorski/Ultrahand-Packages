@@ -8,6 +8,7 @@ A comprehensive list of known Ultrahand Overlay packages.
 - [OC Switchcraft EOS](#oc-switchcraft-eos)
 - [Ultra Tuner](#ultra-tuner)
 - [Ultracam Overlay](#ultracam-overlay)
+- [Lightning](#lightning)
 - [Contributing](#contributing)
 
 ## [Mod Alchemist](https://github.com/ppkantorski/Mod-Alchemist)
@@ -43,6 +44,13 @@ A comprehensive list of known Ultrahand Overlay packages.
 #### Creator(s)
 - [NaGaa95](https://github.com/NaGaa95) (current maintainer)
 
+
+## [Lightning](https://github.com/mollyvita/Lightning)
+#### Description
+- An Ultrahand package designed for managing charging amperage on the Nintendo Switch. It's helpful for consoles with modified batteries, as it allows them to charge faster than default.
+
+#### Creator(s)
+- [mollyvita](https://github.com/mollyvita) (current maintainer)
 
 ## Contributing
 If you have any custom packages you want to showcase, please create an issue or submit a pull request. Contributions are welcome!
