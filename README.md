@@ -4,14 +4,14 @@ A comprehensive list of known Ultrahand Overlay packages.
 ![banner](https://github.com/ppkantorski/Ultrahand-Overlay/blob/main/.pics/ultrahand.png)
 
 ## Table of Contents
-- [Mod Alchemist](#mod-alchemist)
+- [Alchemist](#alchemist)
 - [OC Switchcraft EOS](#oc-switchcraft-eos)
 - [Ultra Tuner](#ultra-tuner)
 - [Ultracam Overlay](#ultracam-overlay)
 - [Lightning](#lightning)
 - [Contributing](#contributing)
 
-## [Mod Alchemist](https://github.com/ppkantorski/Mod-Alchemist)
+## [Alchemist](https://github.com/ppkantorski/Alchemist)
 #### Description
 - An Ultrahand package designed for managing and converting mods on the Nintendo Switch.
 
