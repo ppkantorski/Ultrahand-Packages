@@ -6,10 +6,10 @@ A comprehensive list of known Ultrahand Overlay packages.
 ## Table of Contents
 - [AIO Customizer](#aio-customizer)
 - [Alchemist](#alchemist)
+- [Lightning](#lightning)
 - [OC Switchcraft EOS](#oc-switchcraft-eos)
 - [Ultra Tuner](#ultra-tuner)
 - [Ultracam Overlay](#ultracam-overlay)
-- [Lightning](#lightning)
 - [Contributing](#contributing)
 
 ## [AIO Customizer](https://github.com/GordyMcGarka/AIO-Customizer)
@@ -26,6 +26,15 @@ A comprehensive list of known Ultrahand Overlay packages.
 
 #### Creator(s)
 - [ppkantorski](https://github.com/ppkantorski) (current maintainer)
+
+
+## [Lightning](https://github.com/mollyvita/Lightning)
+#### Description
+- An Ultrahand package designed for managing charging amperage on the Nintendo Switch. It's helpful for consoles with modified batteries, as it allows them to charge faster than default.
+
+#### Creator(s)
+- [mollyvita](https://github.com/mollyvita) (current maintainer)
+
 
 ## [OC Switchcraft EOS](https://github.com/halop/OC_Toolkit)
 #### Description
@@ -45,7 +54,6 @@ A comprehensive list of known Ultrahand Overlay packages.
 - [redraz](https://github.com/redraz) (current maintainer)
 
 
-
 ## [Ultracam Overlay](https://github.com/NaGaa95/Ultracam-Overlay)
 #### Description
 - An Ultrahand package designed for managing the Ultracam TOTK mod.
@@ -53,13 +61,6 @@ A comprehensive list of known Ultrahand Overlay packages.
 #### Creator(s)
 - [NaGaa95](https://github.com/NaGaa95) (current maintainer)
 
-
-## [Lightning](https://github.com/mollyvita/Lightning)
-#### Description
-- An Ultrahand package designed for managing charging amperage on the Nintendo Switch. It's helpful for consoles with modified batteries, as it allows them to charge faster than default.
-
-#### Creator(s)
-- [mollyvita](https://github.com/mollyvita) (current maintainer)
 
 ## Contributing
 If you have any custom packages you want to showcase, please create an issue or submit a pull request. Contributions are welcome!
