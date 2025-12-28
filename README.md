@@ -4,12 +4,21 @@ A comprehensive list of known Ultrahand Overlay packages.
 ![banner](https://github.com/ppkantorski/Ultrahand-Overlay/blob/main/.pics/ultrahand.png)
 
 ## Table of Contents
+- [AIO Customizer](#aio-customizer)
 - [Alchemist](#alchemist)
 - [OC Switchcraft EOS](#oc-switchcraft-eos)
 - [Ultra Tuner](#ultra-tuner)
 - [Ultracam Overlay](#ultracam-overlay)
 - [Lightning](#lightning)
 - [Contributing](#contributing)
+
+## [AIO Customizer](https://github.com/GordyMcGarka/AIO-Customizer)
+#### Description
+- A simple tool to customize Hekate/Nyx and Ultrahand. Easily customize boot options such as boot logos, boot sounds, and splashscreens, as well as Ultrahand themes.
+
+#### Creator(s)
+- [GordyMcGarka](https://github.com/GordyMcGarka) (current maintainer)
+
 
 ## [Alchemist](https://github.com/ppkantorski/Alchemist)
 #### Description
