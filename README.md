@@ -7,6 +7,7 @@ A comprehensive list of known Ultrahand Overlay packages.
 - [AIO Customizer](#aio-customizer)
 - [Alchemist](#alchemist)
 - [Lightning](#lightning)
+- [Memory Kit](#memory-kit)
 - [OC Switchcraft EOS](#oc-switchcraft-eos)
 - [Ultra Tuner](#ultra-tuner)
 - [Ultracam Overlay](#ultracam-overlay)
@@ -34,6 +35,14 @@ A comprehensive list of known Ultrahand Overlay packages.
 
 #### Creator(s)
 - [mollyvita](https://github.com/mollyvita) (current maintainer)
+
+
+## [Memory Kit](https://github.com/ppkantorski/Memory-Kit)
+#### Description
+- An Ultrahand package designed to manipulate various memory settings for Atmosphere and Ultrahand on the Nintendo Switch.
+
+#### Creator(s)
+- [ppkantorski](https://github.com/ppkantorski) (current maintainer)
 
 
 ## [OC Switchcraft EOS](https://github.com/halop/OC_Toolkit)
