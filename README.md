@@ -1,66 +1,29 @@
 # Ultrahand Packages
-A comprehensive list of known Ultrahand Overlay packages.
+
+> A comprehensive list of known [Ultrahand Overlay](https://github.com/ppkantorski/Ultrahand-Overlay) packages for the Nintendo Switch.
 
 ![banner](https://github.com/ppkantorski/Ultrahand-Overlay/blob/main/.pics/ultrahand.png)
 
-## Table of Contents
-- [AIO Customizer](#aio-customizer)
-- [Alchemist](#alchemist)
-- [Lightning](#lightning)
-- [Memory Kit](#memory-kit)
-- [OC Switchcraft EOS](#oc-switchcraft-eos)
-- [Ultracam Overlay](#ultracam-overlay)
-- [Contributing](#contributing)
+---
 
-## [AIO Customizer](https://github.com/GordyMcGarka/AIO-Customizer)
-#### Description
-- A simple tool to customize Hekate/Nyx and Ultrahand. Easily customize boot options such as boot logos, boot sounds, and splashscreens, as well as Ultrahand themes.
+## Packages
 
-#### Creator(s)
-- [GordyMcGarka](https://github.com/GordyMcGarka) (current maintainer)
+| Package | Description | Creator(s) |
+|---------|-------------|------------|
+| [AIO Customizer](https://github.com/GordyMcGarka/AIO-Customizer) | Customize Hekate/Nyx and Ultrahand — boot logos, boot sounds, splashscreens, and themes. | [GordyMcGarka](https://github.com/GordyMcGarka) |
+| [Alchemist](https://github.com/ppkantorski/Alchemist) | Manage and convert mods on the Nintendo Switch. | [ppkantorski](https://github.com/ppkantorski) |
+| [Lightning](https://github.com/mollyvita/Lightning) | Manage charging amperage — especially useful for consoles with modified batteries to enable faster charging. | [mollyvita](https://github.com/mollyvita) |
+| [Memory Kit](https://github.com/ppkantorski/Memory-Kit) | Manipulate various memory settings for Atmosphere and Ultrahand. | [ppkantorski](https://github.com/ppkantorski) |
+| [OC Switchcraft EOS](https://github.com/halop/OC_Toolkit) | The most up-to-date OC Toolkit fork for Switchcraft / EOS — adjust clock speeds, voltages, and timings. | [ppkantorski](https://github.com/ppkantorski), [halop](https://github.com/halop) |
+| [Ultracam Overlay](https://github.com/NaGaa95/Ultracam-Overlay) | Manage the Ultracam TOTK mod. | [NaGaa95](https://github.com/NaGaa95) |
 
-
-## [Alchemist](https://github.com/ppkantorski/Alchemist)
-#### Description
-- An Ultrahand package designed for managing and converting mods on the Nintendo Switch.
-
-#### Creator(s)
-- [ppkantorski](https://github.com/ppkantorski) (current maintainer)
-
-
-## [Lightning](https://github.com/mollyvita/Lightning)
-#### Description
-- An Ultrahand package designed for managing charging amperage on the Nintendo Switch. It's helpful for consoles with modified batteries, as it allows them to charge faster than default.
-
-#### Creator(s)
-- [mollyvita](https://github.com/mollyvita) (current maintainer)
-
-
-## [Memory Kit](https://github.com/ppkantorski/Memory-Kit)
-#### Description
-- An Ultrahand package designed to manipulate various memory settings for Atmosphere and Ultrahand on the Nintendo Switch.
-
-#### Creator(s)
-- [ppkantorski](https://github.com/ppkantorski) (current maintainer)
-
-
-## [OC Switchcraft EOS](https://github.com/halop/OC_Toolkit)
-#### Description
-- The most up-to-date fork of OC Toolkit, designed for Switchcraft / EOS overclocking.
-- The OC Toolkit package provides various options for adjusting the clock speeds, voltages, and timings of your device.
-
-#### Creator(s)
-- [ppkantorski](https://github.com/ppkantorski)
-- [halop](https://github.com/halop) (current maintainer)
-
-
-## [Ultracam Overlay](https://github.com/NaGaa95/Ultracam-Overlay)
-#### Description
-- An Ultrahand package designed for managing the Ultracam TOTK mod.
-
-#### Creator(s)
-- [NaGaa95](https://github.com/NaGaa95) (current maintainer)
-
+---
 
 ## Contributing
-If you have any custom packages you want to showcase, please create an issue or submit a pull request. Contributions are welcome!
+
+Have a custom package you'd like to showcase? Contributions are welcome!
+
+- **Submit a PR** — add your package directly to the table above.
+- **Open an Issue** — describe your package and it will be added.
+
+Please follow the existing table format when submitting a pull request.
